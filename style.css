@@ -1,0 +1,31 @@
+/* Định dạng bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Định dạng ô */
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+/* Định dạng tiêu đề */
+th {
+    background-color: #FFD700;
+    color: black;
+}
+
+/* Màu cho Chủ Nhật */
+.chunhat {
+    background-color: red;
+    color: white;
+}
+
+/* Màu cho Thứ Bảy */
+.t7 {
+    background-color: blue;
+    color: white;
+}
